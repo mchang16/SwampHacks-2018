@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Customizable_Furnture/BedroomScene/Editable_Bedroom.unity
+  isLoaded: 1
+  isActive: 1
